@@ -1,0 +1,6 @@
+    Full mandelbrot set with a couple of optimizations:
+
+    1 compute only top half, mirror it.
+    2 don't compute set inside the big circle and a couple of smaller ones.
+    
+    See http://en.wikipedia.org/wiki/Mandelbrot_set#Cardioid_.2F_bulb_checking
